@@ -1,0 +1,25 @@
+h1
+    {
+        color: #000000;
+        font-size: 18px;
+        font-style: italic;
+    }
+
+.wonderful
+    {
+        color: #4287f5;
+        font-size: 12px;
+        font-style: bold;
+    }
+
+#temporary
+    {
+        color: #1505be;
+        font-size: 12px;
+        font-style: bold;
+    }
+
+body
+    {
+        color: #ebebeb;
+    }
